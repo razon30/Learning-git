@@ -22,6 +22,8 @@ public class MyApplication extends Application {
         sInstance = this;
        // appComponent = DaggerAppComponent.builder().build();
 
+        //hello branch
+
     }
 
     public AppComponent getComponent(){
